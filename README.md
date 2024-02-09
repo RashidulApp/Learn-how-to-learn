@@ -1,6 +1,7 @@
 ## Table of Topics
 1. [Learn How To Learn](#1-learn-how-to-learn)
 2. [Learn Efficient Learning Questions](#2-learn-efficient-learning-questions)
+3. [Concepts before Tools Strategy](#3-concepts-before-tools-strategy)
 ---
 # 1. Learn How To Learn
 
@@ -156,3 +157,51 @@ Optimize your learning process with these concise and efficient questions design
     - What are the main takeaways?
     - How does this fit into my learning goals?
     - Can I summarize it briefly or visually?
+
+
+# 3. Concepts before Tools Strategy
+
+**Master tools by grasping the core concepts first!**
+
+
+### Table of Contents
+
+1. [General](#general)
+2. [Specific tools](#specific-tools)
+3. [Comparisons](#comparisons)
+4. [Application](#comparisons)
+5. [Bonus](#bonus)
+
+This list guides you to explore the "why" behind tools, fostering deeper understanding and adaptability.
+
+## General
+
+* **Core concepts:** What fundamental principles underpin various software development tools?
+* **Strong foundation:** How can you solidify your grasp of these concepts before diving into specific tools?
+* **Understanding features:** What resources unveil the "why" behind different tool features?
+
+## Specific tools
+
+**(Replace with your chosen tool)**
+
+* **Underlying concepts:** What concepts does this tool rely on?
+* **Problem & solution:** What problem does it solve, and how does it work?
+* **Trade-offs & use cases:** When is this tool ideal, and what are its trade-offs compared to others?
+
+## Comparisons
+
+* **Compare & contrast:** Analyze two similar tools based on their underlying concepts and how they address the same needs.
+* **Tool selection:** How do you leverage concept understanding to choose the right tool for a specific project?
+
+## Application
+
+* **Concept in action:** Pick a learned concept and identify tools that apply it differently.
+* **Real-world challenge:** What real-world software development problem can you solve with specific concepts and tools?
+* **Adaptability & versatility:** How does focusing on concepts make you a more adaptable and versatile developer?
+
+## Bonus
+
+* **Visualize connections:** Create a mind map of how different tools relate based on shared concepts.
+* **Share your knowledge:** Develop a teaching plan or resource for others to learn software development with a "concepts before tools" approach.
+
+**Remember:** This is a starting point! Adapt, modify, and add questions to fit your specific needs and interests. Remember, understanding the "why" empowers you to leverage tools effectively and become a well-rounded developer!
