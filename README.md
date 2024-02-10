@@ -199,9 +199,5 @@ This list guides you to explore the "why" behind tools, fostering deeper underst
 * **Real-world challenge:** What real-world software development problem can you solve with specific concepts and tools?
 * **Adaptability & versatility:** How does focusing on concepts make you a more adaptable and versatile developer?
 
-## Bonus
-
-* **Visualize connections:** Create a mind map of how different tools relate based on shared concepts.
-* **Share your knowledge:** Develop a teaching plan or resource for others to learn software development with a "concepts before tools" approach.
 
 **Remember:** This is a starting point! Adapt, modify, and add questions to fit your specific needs and interests. Remember, understanding the "why" empowers you to leverage tools effectively and become a well-rounded developer!
